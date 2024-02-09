@@ -35,4 +35,4 @@ Headings should preferably be all lowercase and as short as possible. However, i
 I'm a stickler for using proper dashes. By that logic, please use hyphens <kbd>-</kbd>, en-dashes <kbd>&ndash;</kbd>, and em-dashes <kbd>&mdash;</kbd> where applicable. Em-dashes are preferred over semicolons, unless the blocking nature of a semicolon is beneficial to the content.
 
 ### rendering
-Attempt to pretty print wherever possible. For example, render `code` with backticks&mdash;and in the case of a code block, a language too. Render math with $\text{latex}$. Use HTML tags such as <kbd>\<kbd\/></kbd> to overcome Markdown's limitations when drawing attention to content that can't be adequately highlighted with bold or italicized text.
+Attempt to pretty print wherever possible. For example, render `code` with backticks&mdash;and in the case of a code block, a language too. Render math with $\text{latex}$. Use HTML tags such as `<kbd/>` to overcome Markdown's limitations when drawing attention to content that can't be adequately highlighted with bold or italicized text.
